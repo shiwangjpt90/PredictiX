@@ -11,7 +11,6 @@ PredictiX is a comprehensive multi-disease prediction platform designed to predi
 - [File Structure](#file-structure)
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ## Features
 
