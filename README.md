@@ -120,9 +120,6 @@ PredictiX/
 ### Predictors Page
 ![Predictors](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS3.png)
 
-### About Page
-![About](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS4.png)
-
 
 ## Future Enhancements
 
@@ -132,6 +129,3 @@ PredictiX/
 - **Enhanced Image Processing:** Use more advanced techniques for image analysis, improving accuracy for cancer detection.
 - **Integration with Wearables:** Sync health data from wearables for real-time predictions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
